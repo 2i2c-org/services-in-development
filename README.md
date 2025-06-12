@@ -1,6 +1,6 @@
-# services-wip
+# services
 
-**Hypothesis: By communicating with the 2i2c team using this [services-wip](https://github.com/2i2c-org/services-wip) repository there will increased alignment on the current and future state of 2i2 service design work.**
+**Hypothesis: By communicating with the 2i2c team using this [services](https://github.com/2i2c-org/services) repository there will increased alignment on the current and future state of 2i2 service design work.**
 
 This repository supports service design work in progress (WIP).  
 
