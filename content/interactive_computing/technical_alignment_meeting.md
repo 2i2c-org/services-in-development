@@ -2,9 +2,10 @@
 
 The following introductory email is sent to the Technical Community Lead and cc’d to all Community Representatives. The purpose of this first meeting is to Align on the Technical Requirements to be able to deploy infrastructure.  
 
-Email to send to community representatives
+Email to send to community representatives.
 
-```
+```{code} email
+:caption: Email template
 Welcome to 2i2c's Advanced Tier,
 
 Our infrastructure team will schedule the deployment and rollout of a JupyterHub for your community.
