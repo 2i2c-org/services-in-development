@@ -75,18 +75,10 @@ Upon hand-off from BD, the following introductory email is sent to the Community
 
     Funded by information (name and URL): (Optional) Organization and URL that the community would like to acknowledge as a funder for this hub.
 
-
-    
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 ![alt_text](images/image1.png "image_tooltip")
 
 
-
     [ Implementation Detail : Develop a AirTable form where this information can be captured and updated ]
-
 
     If your community would like to configure this page, you may follow the instructions given at [https://github.com/2i2c-org/default-hub-homepage](https://github.com/2i2c-org/default-hub-homepage) and provide the repository and branch you would prefer that we use.
 
