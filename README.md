@@ -8,7 +8,7 @@ This repository supports service design work in progress (WIP).
 
 The intent of this repository is to treat "2i2c Services" as a internal product to track the development and refinement of services.
 
-This repository is private to represent the work in progress characteristic of 2i2c services.  It is an attempt to avoid confusion with our communities between 'what we offer' and 'what we might offer' in terms of our services.
+This repository is public to be consistent with 2i2c's to be open transparent but it does represent work in progress. This distinction is an attempt to avoid confusion with our communities between 'what 2i2c offers' and 'what 2i2c might offer' in terms of our services.
 
 The published version of a 2i2c service will be released using the following sites: 
 - [2i2c Team Compass](https://compass.2i2c.org/) As 2i2c's primary source of truth, the operational details and procedures of all services will be published to the Team Compass. Pushing to the Team Compass indicates that a particular version of a service has been released and can be trusted both internally and externally as the official documentation of **how** a service is intended to work. For services, the Team Compass defines how a service is implemented. The intended audience is the 2i2c Team. The Team Compass also needs to explicitly delegate the descriptions of both existing services and potential future services to where that information should be found.
