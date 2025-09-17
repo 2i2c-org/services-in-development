@@ -1,4 +1,6 @@
-# services
+# services in development
+
+**This is a repository to track in-progress service design work, it is not documentation for our services.**
 
 **Hypothesis: By communicating with the 2i2c team using this [services](https://github.com/2i2c-org/services) repository there will increased alignment on the current and future state of 2i2 service design work.**
 
